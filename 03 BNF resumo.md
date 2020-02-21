@@ -38,7 +38,7 @@ A notação BNF é constituída por símbolos não terminais, símbolos não ter
 
 >
 Os símbolos não terminais escrevem-se entre **`<` e `>`**
-{% endhint %}
+
 
 * **Símbolos Terminais -** Conjunto finito, não vazio, **dito alfabeto**  que não podem ser substituídos, correspondem às palavras válidas na linguagem.
 
@@ -202,18 +202,18 @@ O termo “bug” foi criado por Grace Murray Hopper \(1906– 1992\). Em Agosto
    1. XX
    1. XXXXXX
    
-1. Considere a seguinte gramática em notação BNF:
+1. Considere a seguinte gramática em notação BNF:
    
    ```sql 
-       <palavra> ::= <sílaba> <sílaba>
-       <sílaba> ::= <vogal> <consoante> |  <consoante> <vogal> 
+       <palavra> ::= <sílaba> <sílaba>
+       <sílaba> ::= <vogal> <consoante> |  <consoante> <vogal> 
        <vogal> ::= a | e | i | o | u
        <consoante> ::= b | c | d | f | g | h | j | l | m | n | p|q|r|s|t|v|x|z
        
     ```
-    1. Indique os símbolos terminais e os símbolos não-terminais da gramática.
-    1. Indique quais das expressões seguintes correspondem a palavras da
-linguagem definida pela gramática. Justifique a sua resposta apresentado a derivação da sentença:
+    1. Indique os símbolos terminais e os símbolos não-terminais da gramática.
+    1. Indique quais das expressões seguintes correspondem a palavras da
+linguagem definida pela gramática. Justifique a sua resposta apresentado a derivação da sentença:
 		1. lobo
 		1. cria
 		1. gato
@@ -222,17 +222,17 @@ linguagem definida pela gramática. Justifique a sua resposta apresentado a der
 		1. vaca
 		1. macaco
 
-1. Considere a seguinte gramática em notação BNF:
+1. Considere a seguinte gramática em notação BNF:
 
 	```sql 
-		<operação> ::=  (<argumento> <operador> <argumento>) 
+		<operação> ::=  (<argumento> <operador> <argumento>) 
 		<operador> ::=  + | - | * | /
-		<argumento> ::=  <dígito>
-		<dígito> ::=  2 | 4 | 6 | 8 | 0
+		<argumento> ::=  <dígito>
+		<dígito> ::=  2 | 4 | 6 | 8 | 0
 	```
 		
-	1. Indique os símbolos terminais e os símbolos não terminais da gramática.
-	1. Indique quais das expressões seguintes pertencem à linguagem definida pela gramática. Justifique a sua resposta apresentado a derivação da sentença.
+	1. Indique os símbolos terminais e os símbolos não terminais da gramática.
+	1. Indique quais das expressões seguintes pertencem à linguagem definida pela gramática. Justifique a sua resposta apresentado a derivação da sentença.
 		1. (1+2) 
 		2. (2++) 
 		3. (2*0) 
@@ -260,11 +260,11 @@ linguagem definida pela gramática. Justifique a sua resposta apresentado a der
 
 ## Exercícios laboratoriais
 
-1. Escreva uma gramática em notação **BNF** para uma linguagem que consiste em sequências de n cópias da letra “x” seguida do mesmo número de cópias da letra “y”, onde n > 0. 
-	* **Exemplos de sequências validas** para a linguagem: xy, xxxyyy, xxxxxyyyyy 
-	* **Exemplos de sequências não-validas** para a linguagem: x, yyy, xxy, xxxyyyx, xxxyyyy
+1. Escreva uma gramática em notação **BNF** para uma linguagem que consiste em sequências de n cópias da letra “x” seguida do mesmo número de cópias da letra “y”, onde n > 0. 
+	* **Exemplos de sequências validas** para a linguagem: xy, xxxyyy, xxxxxyyyyy 
+	* **Exemplos de sequências não-validas** para a linguagem: x, yyy, xxy, xxxyyyx, xxxyyyy
 
-1. Escreva uma gramática em notação BNF para representar programas no seguinte formato:
+1. Escreva uma gramática em notação BNF para representar programas no seguinte formato:
 
    ``` python
    programa
@@ -277,27 +277,27 @@ linguagem definida pela gramática. Justifique a sua resposta apresentado a der
 	  fim
 	fim
 	```
-Prove que a gramática é valida apresentando a derivação do programa anterior.
+Prove que a gramática é valida apresentando a derivação do programa anterior.
 
-1. EscrevaumagramáticaemnotaçãoBNFparadefiniroscódigospostaisdePortugal. Um código postal de Portugal corresponde a um número inteiro de 4 dígitos, o primeiro dos quais diferente de zero, seguido de um hífen (“-”), seguido de um inteiro de 3 dígitos. Por exemplo: 
+1. EscrevaumagramáticaemnotaçãoBNFparadefiniroscódigospostaisdePortugal. Um código postal de Portugal corresponde a um número inteiro de 4 dígitos, o primeiro dos quais diferente de zero, seguido de um hífen (“-”), seguido de um inteiro de 3 dígitos. Por exemplo: 
 	* 1049-001
 	* 2780-990
 
-1. Considere a seguinte gramática em notação BNF:
+1. Considere a seguinte gramática em notação BNF:
 
    ``` python
-	<operação> ::= (<argumento> <operador> <argumento>) <operador> ::=+|-|*|/
-	<argumento> ::= <dígito>+
-<dígito> ::= 2 | 4 | 6 | 8 | 0
+	<operação> ::= (<argumento> <operador> <argumento>) <operador> ::=+|-|*|/
+	<argumento> ::= <dígito>+
+<dígito> ::= 2 | 4 | 6 | 8 | 0
 ```
- 1. Indique os símbolos terminais e os símbolos não terminais da gramática.
- 2. Indique, justificando, quais das expressões seguintes pertencem ou não pertencem ao conjunto de operações da linguagem definida pela gramática.
+ 1. Indique os símbolos terminais e os símbolos não terminais da gramática.
+ 2. Indique, justificando, quais das expressões seguintes pertencem ou não pertencem ao conjunto de operações da linguagem definida pela gramática.
   	 1.  (1+2) (2+-)
   	 1. ( 24 * 06 )
   	 1. 2*0 ( 84 + )
   	 1. (0/0)
 
-1. Escreva uma gramática em notação BNF que gera frases constituídas pelos símbolos c, a, r, d. As frases da linguagem começam pelo símbolo c, o qual é seguido por uma ou mais ocorrências dos símbolos a e d, e terminam no símbolo r. Por exemplo caaddaar e cdr são frases da linguagem, cd e cdrr não o são.
+1. Escreva uma gramática em notação BNF que gera frases constituídas pelos símbolos c, a, r, d. As frases da linguagem começam pelo símbolo c, o qual é seguido por uma ou mais ocorrências dos símbolos a e d, e terminam no símbolo r. Por exemplo caaddaar e cdr são frases da linguagem, cd e cdrr não o são.
 
 1. Considere a seguinte gramática em notação BNF:
 
@@ -328,23 +328,23 @@ Prove que a gramática é valida apresentando a derivação do programa ante
          <verbo> ::= vira 
     ```
    
-1. Escreva uma gramática BNF  para a linguagem composta por números binários que deve conter pelo menos dois 0s consecutivos (a linguagem inclui os strings 10011011010 e 100010, mas não 01011010101).
+1. Escreva uma gramática BNF  para a linguagem composta por números binários que deve conter pelo menos dois 0s consecutivos (a linguagem inclui os strings 10011011010 e 100010, mas não 01011010101).
 
-1. Considere a seguinte gramática em notação BNF:
+1. Considere a seguinte gramática em notação BNF:
 
    ```python  
    <S> → <A> a <B> b
    	<A> → <A> b | b
   	<B> → a <B> | a
   	```
-  	Indique quais das seguintes sentenças estão na linguagem gerada por essa gramática. Justifique a sua resposta apresentado a derivação da sentença.
+  	Indique quais das seguintes sentenças estão na linguagem gerada por essa gramática. Justifique a sua resposta apresentado a derivação da sentença.
   	1. baab
   	2. bbbab
   	3. bbaaaaaa
   	4. bbaab
   	5. aaabbbaaabbb
 
-1. Considere a seguinte gramática em notação BNF:
+1. Considere a seguinte gramática em notação BNF:
 
   ```python
   <tdecl> → <type> <varlist> ;
@@ -352,13 +352,13 @@ Prove que a gramática é valida apresentando a derivação do programa ante
   <type> → static <basictype> | <basictype> 
   <basictype> → int | bool | string
   ```
-Construa a árvore de análise para cada uma das seguintes sentenças:
+Construa a árvore de análise para cada uma das seguintes sentenças:
 	1. int a, b;
 	2. static string a, b, c;
 	3. bool a, b, c, d, e;
 	4. 
 
-1. Prove que a seguinte gramática é ambígua:
+1. Prove que a seguinte gramática é ambígua:
 
    ```python
     <S> -> <A>
