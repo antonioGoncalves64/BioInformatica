@@ -18,5 +18,4 @@
 
 
 
-
-![](https://octodex.github.com/images/labtocat.png)
+![](figures/images.jpg)
