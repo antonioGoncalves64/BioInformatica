@@ -66,9 +66,9 @@ representação de todos os número binários \(exemplos: 100100, 0001111000\)
 **Símbolos Terminais**
 
 **0 e 1**
-{% endhint %}
 
-{% hint style="info" %}
+
+
 **Símbolos não Terminais** 
 
 ```sql
