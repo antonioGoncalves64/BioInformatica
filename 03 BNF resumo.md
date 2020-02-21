@@ -179,7 +179,7 @@ Ao processo de deteccao e correccao, tanto dos erros sintacticos como dos erros 
 
 >
 O termo “bug” foi criado por Grace Murray Hopper \(1906– 1992\). Em Agosto de 1945, Hopper e alguns dos seus associados estavam a trabalhar em Harvard com um computador experimental, o Mark I, quando um dos circuitos deixou de funcionar. Um dos investigadores localizou o problema e, com auxılio de uma pinca, removeu-o: uma traca com cerca de 5 cm. Hopper colou a traca, com fita gomada, no seu livro de notas e disse: “A partir de agora, sempre que um computador tiver problemas direi que ele contem insectos
-{% endhint %}
+
 
 
 ## Exercícios práticos
