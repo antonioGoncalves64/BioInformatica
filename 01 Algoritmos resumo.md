@@ -7,9 +7,9 @@
 
 ## Computador
 
-Um computador  é uma artefacto que podem diferir em  tamanho, aparência e custo,  mas que partilham  partilham quatro características fundamentais: são **automáticos, universais, electrónicos e digitais** e caracteriza-se  actualmente por por ser um sistema digital programável através de uma sequência de instruções guardadas em memória.
+Um computador  é uma artefacto que podem diferir em  tamanho, aparência e custo,  mas que partilham  partilham quatro características fundamentais: são **automáticos, universais, electrónicos e digitais** e caracteriza-se  actualmente por por ser um sistema digital programável através de uma sequência de instruções guardadas em memória.
 
->Charles Babbage projectou o primeiro computador mecânico capaz de desempenhar automaticamente sequências de operações. O Computador erá conhecido como o **difference engine** e usava apenas elementos mecânicos e podia ser programado para construir tabelas matemáticas.
+>Charles Babbage projectou o primeiro computador mecânico capaz de desempenhar automaticamente sequências de operações. O Computador erá conhecido como o **difference engine** e usava apenas elementos mecânicos e podia ser programado para construir tabelas matemáticas.
 
 ### Automático
 
@@ -33,11 +33,11 @@ Por exemplo, num computador o símbolo **“J”**, poder ́a ser representado p
 >
 
 
-####O primeiro computador completamente automático foi construído em 1944 - Harvard Mark I:
+####O primeiro computador completamente automático foi construído em 1944 - Harvard Mark I:
 * 18 por 2,5 metros
 * 5 toneladas, 
-* 760.000 partes e centenas de kilometros de cabos 9 bytes de memória
-* 3 segundos para fazer adição ou subtração
+* 760.000 partes e centenas de kilometros de cabos 9 bytes de memória
+* 3 segundos para fazer adição ou subtração
 
 ## Algoritmo
 
@@ -56,6 +56,7 @@ A execução das instruções não requer imaginação por parte do executante.
 >
 
 Um algoritmo está sempre associado com um dado objectivo, ou seja, com a solução de um dado problema. A execução das instruções do algoritmo garante que o seu objectivo é atingido.
+
 
 ### Exemplo de um algoritmo
 
@@ -83,11 +84,11 @@ Um algoritmo, escrito de modo a poder ser executado por um computador, tem o nom
 ```
 
 >
-Códigos numéricos associados a operações básicas  
-Linguagem específica de cada micro-processador  
-Única linguagem directamente executável pelo computador  
-Difícil escrever programas diretamente em código máquina  
-Concebida para facilitar a implementação usando circuitos eletrónicos
+Códigos numéricos associados a operações básicas  
+Linguagem específica de cada micro-processador  
+Única linguagem directamente executável pelo computador  
+Difícil escrever programas diretamente em código máquina  
+Concebida para facilitar a implementação usando circuitos eletrónicos
 
 ### Exemplo de um programa em assembly
 
@@ -143,10 +144,10 @@ int main() {
 ```
 
 >
-Mais próximas da formulação matemática dos problemas  
-Permitem o desenvolvimento de programas mais rápido  
-Facilitam a deteção e a correção de erros  
-Permitem desenvolver programas independentes do processador específico em cada computador
+Mais próximas da formulação matemática dos problemas  
+Permitem o desenvolvimento de programas mais rápido  
+Facilitam a deteção e a correção de erros  
+Permitem desenvolver programas independentes do processador específico em cada computador
 
 
 ## Exercícios práticos
