@@ -44,7 +44,7 @@ Os símbolos não terminais escrevem-se entre **`<` e `>`**
 
 >
 No caso do Python os símbolos terminais são:  **and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield,**
-{% endhint %}
+
 
 * **Regras de Produção** – Conjunto de uma regra da gramática que define a forma como os símbolos não terminais podem ser substituídos. As regras de produção escrevem-se segundo a seguinte convenção:
   * o símbolo **`::=`** define componentes da linguagem, i.e., símbolos não terminais, e lê-se "definido como";
