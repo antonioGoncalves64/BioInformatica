@@ -34,9 +34,9 @@ A instrução **`if`** permite a selecção entre duas ou mais alternativas.  A 
 
 Em que **`INDENT`** corresponde à indentação de todas as instruções no bloco e **`DEDENT`** ao recuo da indentação após a última instrução no bloco. 
 
-{% hint style="info" %}
+>
  A condição é em geral uma **expressão** que toma um **valor lógico**, embora possa ser uma qualquer **expressão** se tivermos em conta a conversão automática para valores lógicos.
-{% endhint %}
+
 
 ## Instrução condicional simples
 
@@ -212,7 +212,7 @@ else:
 13. Crie um programa que leia o valor das vendas de uma empresa em 4 anos consecutivos: 2010, 2011, 2012 e 2013. Os valores deverão ser positivos. O programa deverá indicar em quantos anos neste período o valor de vendas cresceu em relação ao ano anterior \(o valor de saída será entre 0 e 3\). Deverá indicar ainda o crescimento percentual entre o ano 2010 e 2013. \(utilizado ciclos\).
 14. Crie um programa que lê os coeficientes de uma equação do 2º grau e calcula suas raízes. O programa deve mostrar, quando possível, o valor das raízes calculadas e a classificação das raízes \(imaginárias, única, distintas\);
 15. Faça um Programa que leia três números e mostre o maior deles. 
-16. Faça um programa que leia um valor e escrever a mensagem É MAIOR QUE 10! se o valor lido for maior que 10, caso contrário escrever NÃO É MAIOR QUE 10!
+16. Faça um programa que leia um valor e escrever a mensagem É MAIOR QUE 10! se o valor lido for maior que 10, caso contrário escrever NÃO É MAIOR QUE 10!
 17. Dados 3 valores x, y e z, verificar se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verificar se é um triângulo equilátero, isósceles ou escaleno.
 18. Crie um programa para verificar se um número inteiro positivo é múltiplo de outro. Ambos os números devem ser introduzidos pelo utilizador. Deve verificar se o maior é divisível pelo menor.
 19. Crie um programa para verificar se um número inteiro positivo é múltiplo de outro. Ambos os números devem ser introduzidos pelo utilizador. Deve verificar se o maior é divisível pelo menor.
