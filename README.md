@@ -20,4 +20,4 @@
 
 
 
-![](figures/images.jpg)
+![](figures/image.jng)
