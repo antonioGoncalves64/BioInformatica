@@ -101,7 +101,7 @@ Neste exemplo pode observar-se que o argumento `t` é passado por referência pa
 ## Exercícios práticos
 
 1. Defina a função `indices_pares` que recebe como argumento uma lista de números inteiros w e devolve a lista dos elementos de w em posições pares. Exemplo:  indices\_pares\(\[4,3,7,1,2,9\]\); Out\[34\]
-2. Dada uma variável representando uma cadeia de DNA, “ATTATTATTATTA”, faça um programa que: substitua todos os Ts por Cs;  substitua  os primeiros 2 As por Gs e encontre a posição do primeiro .
+2. Dada uma variável representando uma cadeia de DNA, “ATTATTATTATTA”, faça um programa que: substitua todos os Ts por Cs;  substitua  os primeiros 2 As por Gs e encontre a posição do primeiro .
 3. Defina a função prod\_lista que recebe como argumento uma lista de números inteiros e devolve o produto dos seus elementos. Exemplo:  prod\_lista\(\[2,4,6\]\)  saida : 48
 4. Defina a função contem\_parQ que recebe como argumento uma lista de números inteiros w e devolve True se w contém um número par e False em caso contrário.  Exemplos: contem\_parQ\(\[3,5,7,9,11\]\)  saída; False;  contem\_parQ\(\[3,4,7,9,11\]\); saída: TrueDefina a função
 5. pertenceQ que recebe como argumentos uma lista de números inteiros w e um número inteiro n e devolve True se n ocorre em w e False em caso contrário. Exemplo: pertenceQ\(\[1,2,3,4\],5\); saída:  False;  pertenceQ\(\[1,2,3,4\],2\); saída: True;
