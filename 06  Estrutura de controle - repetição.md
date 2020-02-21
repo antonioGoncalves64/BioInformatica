@@ -96,9 +96,9 @@ n = 5
  7 print('Loop ended.')
 ```
 
-{% hint style="info" %}
+
 De um modo geral, o numero de vezes que o corpo do ciclo é executado não pode ser calculado antecipadamente: a condição que especifica o termino do ciclo é testada durante a execucao do próprio ciclo, sendo impossivel saber de antemão como vai prosseguir a avaliação
-{% endhint %}
+
 
 >
 Pode acontecer que o corpo do ciclo não seja executado nenhuma vez. Com efeito, a semântica da instrução **`while`** especifica que o valor da expressão que controla a execução do ciclo é calculado antes do inıcio da execução do ciclo. Se o valor inicial desta expressão é **`False,`**o corpo do ciclo nao é executado.
@@ -202,9 +202,9 @@ Este programa começa por  ler um inteiro positivo atribuindo-o à variável **`
 
     Ao escolher a opção, o programa solicita os dois números a serem operados \(exceto se a opção escolhida for a 5\), efetua a operação, mostra o resultado na tela e volta para o menu para que o utilizador escolha outra opção. 
 
-11. Escreva um programa que imprime na tela os n primeiros números perfeitos. Um número perfeito é aquele que é igual à soma dos seus divisores. Por exemplo, 6 = 1 + 2 + 3.
-12. Um número inteiro é considerado triangular se este for o produto de 3 números inteiros consecutivos, como, por exemplo, 120 = 4 x 5 x 6. Elabore um programa que, após ler um número n do teclado, verifique se n é triangular.
-13. Faça um programa que leia dois valores x e y, e calcula o valor de x dividido por y, além do resto da divisão. Não é permitido usar as operações de divisão e resto de divisão do Python \(use apenas soma e subtração\).
+11. Escreva um programa que imprime na tela os n primeiros números perfeitos. Um número perfeito é aquele que é igual à soma dos seus divisores. Por exemplo, 6 = 1 + 2 + 3.
+12. Um número inteiro é considerado triangular se este for o produto de 3 números inteiros consecutivos, como, por exemplo, 120 = 4 x 5 x 6. Elabore um programa que, após ler um número n do teclado, verifique se n é triangular.
+13. Faça um programa que leia dois valores x e y, e calcula o valor de x dividido por y, além do resto da divisão. Não é permitido usar as operações de divisão e resto de divisão do Python \(use apenas soma e subtração\).
 14. Crie um programa que lê dois números inteiros e faz a multiplicação sem utilizar o operador de multiplicação \*.
 15. Escreva um programa para imprimir os números inteiros entre 1 e 10 na mesma linha, primeiro em ordem crescente e depois em ordem decrescente \(utilizado ciclos\).
 16.  Escreva um programa que peça ao utilizador um nome e um número inteiro \(entre 1 e 20\). Deverá mostrar esse nome um número de vezes igual a esse valor inteiro.
