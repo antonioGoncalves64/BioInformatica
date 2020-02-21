@@ -9,7 +9,7 @@
 1. [Variáveis e atribuição](./04 Elementos basicos de programacao/04.3 Variáveis e atribuição.md)
 1. [Leitura e Escrita Dados](./04 Elementos basicos de programacao/04.4 Leitura e Escrita Dados.md)
 1. [Programas Simples](./04 Elementos basicos de programacao/04.5 Programas simples.md)
-1. [Seleção](./05 Estrutura de controleSeleção.md)
+1. [Seleção](./05EstruturaControleSelecao.md)
 1. [Repetição](./06 Estrutura de controle - repetição.md)
 
 
