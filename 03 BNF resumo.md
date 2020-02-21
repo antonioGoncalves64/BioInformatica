@@ -62,7 +62,7 @@ representação de todos os número binários \(exemplos: 100100, 0001111000\)
 <digito binário> ::= 0 | 1
 ```
 
-{% hint style="info" %}
+
 **Símbolos Terminais**
 
 **0 e 1**
@@ -75,9 +75,9 @@ representação de todos os número binários \(exemplos: 100100, 0001111000\)
 <número binário>
 <digito binário>
 ```
-{% endhint %}
 
-{% hint style="info" %}
+
+
 **Regras de Produção**
 
 ```sql
@@ -92,7 +92,7 @@ representação de todos os número binários \(exemplos: 100100, 0001111000\)
 > A primeira define a classe dos números binários, representados pelo símbolo não terminal **numero binário**, como sendo um **dígito binário**, ou um **dígito binário** seguido de um **numero binário**. 
 >
 > A segunda parte desta regra diz simplesmente que um **numero binário** é constituído por um **dígito binário** seguido por um **numero binário.**
-{% endhint %}
+
 
 ### Erro Sintáctico
 
