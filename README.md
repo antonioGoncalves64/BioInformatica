@@ -10,7 +10,7 @@
 1. [Leitura e Escrita Dados](./04 Elementos basicos de programacao/04.4 Leitura e Escrita Dados.md)
 1. [Programas Simples](./04 Elementos basicos de programacao/04.5 Programas simples.md)
 1. [Seleção](./05EstruturaControleSelecao.md)
-1. [Repetição](./06 Estrutura de controle - repetição.md)
+1. [Repetição](./06EstruturaControleRepeticao.md)
 
 
 
