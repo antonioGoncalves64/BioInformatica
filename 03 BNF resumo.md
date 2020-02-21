@@ -128,7 +128,7 @@ A semântica de uma linguagem define qual o significado de cada frase da linguag
 
 >
 Um dos processos de descrever a semântica de uma linguagem consiste em fornecer uma descrição em linguagem natural \(por exemplo, em portugês\) do significado, ou seja, das acções que são realizadas pelo computador, de cada um dos possíveis  componentes da linguagem. Este processo, embora tenha os inconvenientes da informalidade e da ambiguidade associadas às línguas naturais, tem a vantagem de fornecer uma perspectiva intuitiva da linguagem.
-{% endhint %}
+
 
 Por exemplo, a sintaxe da instrução **if** da linguagem **Python** é: 
 
