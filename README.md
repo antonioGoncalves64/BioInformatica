@@ -14,7 +14,7 @@
 1. [Tuplos e Ciclos Contados](./09 Tuplos e ciclos contados.md)
 1. [Listas](./10 listas.md)
 1. [Recursividade](./11 Recursividade.md)
-1. [Listas](./12 dicionarios.md)
+1. [Dicionarios](./12 dicionarios.md)
 
 
 
