@@ -1,5 +1,5 @@
 
-![LOGO IPS](https://files.fm/thumb_show.php?i=yred9d27)  
+![LOGO](./figures/)  
 # PROGRAMAÇÃO I
 
 # COMPUTADORES, ALGORITMOS e PROGRAMAS
