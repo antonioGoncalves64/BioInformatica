@@ -1,5 +1,5 @@
 
-![LOGO IPS](./figures/grammer.)  
+![LOGO](./figures/grammer.jpg)  
 # PROGRAMAÇÃO I
 
 # SINTAXE E SEMÂNTICA
