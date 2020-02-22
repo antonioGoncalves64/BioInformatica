@@ -1,8 +1,9 @@
 
 ![LOGO IPS](https://files.fm/thumb_show.php?i=yred9d27)  
+
 # PROGRAMAÇÃO I
 
-#COMPUTADORES, ALGORITMOS e PROGRAMAS
+# COMPUTADORES, ALGORITMOS e PROGRAMAS
 
 
 ## Computador
@@ -33,7 +34,7 @@ Por exemplo, num computador o símbolo **“J”**, poder ́a ser representado p
 >
 
 
-####O primeiro computador completamente automático foi construído em 1944 - Harvard Mark I:
+#### O primeiro computador completamente automático foi construído em 1944 - Harvard Mark I:
 * 18 por 2,5 metros
 * 5 toneladas, 
 * 760.000 partes e centenas de kilometros de cabos 9 bytes de memória
