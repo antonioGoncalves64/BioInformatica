@@ -1,4 +1,4 @@
-![LOGO IPS](figures/imageJPEG2.jpg)  
+
 
 
 ## Indice
