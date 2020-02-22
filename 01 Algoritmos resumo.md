@@ -1,5 +1,5 @@
 
-![LOGO](./figures/)  
+![LOGO](./figures/algortimo.jpg)
 # PROGRAMAÇÃO I
 
 # COMPUTADORES, ALGORITMOS e PROGRAMAS
